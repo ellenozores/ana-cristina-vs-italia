@@ -106,7 +106,7 @@ Resultado observado:
 
 Os maiores picos de pontuação ocorreram contra Turquia e República Dominicana.
 
-Interpretação:
+**Interpretação:**
 
 Embora a Itália apresente a maior média, os maiores desempenhos individuais ocorreram contra outros adversários, isso demonstra que média e desempenho máximo não necessariamente coincidem.
 Ainda assim, esse alto nível de pontuaçao dela contra a República Dominicana e a Turquia, foi marcado de forma isolada nessas competições, ou seja, nos demais confrontos contra essas duas seleções ela não apresentou uma pontuação tão alta assim, fator esse que pode ser encontrado se pensarmos num possível tempo de quadra, onde ela tenha jogado poucos sets ou foi substituída, além da extensão do jogo, visto que partidas onde nos levam ao tie-break (3x2) traz uma maior oportunidade de pontuar. 
