@@ -106,11 +106,17 @@ Resultado observado:
 
 Os maiores picos de pontuação ocorreram contra Turquia e República Dominicana.
 
-**Interpretação:**
+**Interpretação**
 
-Embora a Itália apresente a maior média, os maiores desempenhos individuais ocorreram contra outros adversários, isso demonstra que média e desempenho máximo não necessariamente coincidem.
-Ainda assim, esse alto nível de pontuaçao dela contra a República Dominicana e a Turquia, foi marcado de forma isolada nessas competições, ou seja, nos demais confrontos contra essas duas seleções ela não apresentou uma pontuação tão alta assim, fator esse que pode ser encontrado se pensarmos num possível tempo de quadra, onde ela tenha jogado poucos sets ou foi substituída, além da extensão do jogo, visto que partidas onde nos levam ao tie-break (3x2) traz uma maior oportunidade de pontuar. 
-Diante disso, sua pontuação contra a Itália ainda é um destaque, visto que ela manteve uma estabilidade de pontuação nos 03 confrontos contra essa seleção, mostrando que a Ana Cristina tem sede de Itália!
+Embora a Itália apresente a maior média, os maiores desempenhos individuais ocorreram contra outros adversários. Isso demonstra que média e desempenho máximo não necessariamente coincidem.
+
+Ainda assim, esse alto nível de pontuação contra a República Dominicana e a Turquia foi observado de forma isolada em determinadas competições. Nos demais confrontos contra essas seleções, Ana Cristina não apresentou pontuações tão elevadas.
+
+Esse comportamento pode estar relacionado a fatores não contemplados neste estudo, como tempo efetivo em quadra, quantidade de sets disputados ou substituições realizadas durante as partidas.
+
+Além disso, confrontos mais longos, especialmente aqueles decididos no tie-break (3x2), naturalmente oferecem mais oportunidades de pontuação.
+
+Diante disso, o desempenho contra a Itália continua sendo um destaque. Apesar de não concentrar as maiores pontuações individuais da análise, Ana Cristina manteve um nível elevado e consistente de produção ofensiva nos três confrontos analisados, evidenciando uma regularidade que não foi observada com a mesma intensidade contra outras seleções.
 ---
 
 # Estudo de Caso: Itália
