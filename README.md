@@ -117,6 +117,8 @@ Esse comportamento pode estar relacionado a fatores não contemplados neste estu
 Além disso, confrontos mais longos, especialmente aqueles decididos no tie-break (3x2), naturalmente oferecem mais oportunidades de pontuação.
 
 Diante disso, o desempenho contra a Itália continua sendo um destaque. Apesar de não concentrar as maiores pontuações individuais da análise, Ana Cristina manteve um nível elevado e consistente de produção ofensiva nos três confrontos analisados, evidenciando uma regularidade que não foi observada com a mesma intensidade contra outras seleções.
+
+
 ---
 
 # Estudo de Caso: Itália
