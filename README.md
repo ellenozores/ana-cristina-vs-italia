@@ -72,8 +72,7 @@ Para garantir comparabilidade entre os grupos analisados, foram consideradas ape
 ---
 
 # Média de Pontos por Adversário
-
-[Inserir imagem do gráfico]
+![Média por adversário](images/media_adversario.png)
 
 Resultado observado:
 
@@ -87,7 +86,7 @@ Os confrontos contra a Itália apresentaram produção ofensiva superior à obse
 
 # Distribuição das Pontuações
 
-[Inserir imagem do boxplot]
+![Distribuição dos pontos entre as Seleções](images/boxplot.png)
 
 Resultado observado:
 
@@ -101,7 +100,7 @@ O desempenho elevado não foi consequência de uma única atuação excepcional,
 
 # Maiores Atuações
 
-[Inserir imagem Top 5]
+![Top 5 melhores atuações da Ana Cristina](images/top5.png)
 
 Resultado observado:
 
@@ -109,17 +108,17 @@ Os maiores picos de pontuação ocorreram contra Turquia e República Dominicana
 
 Interpretação:
 
-Embora a Itália apresente a maior média, os maiores desempenhos individuais ocorreram contra outros adversários.
+Embora a Itália apresente a maior média, os maiores desempenhos individuais ocorreram contra outros adversários, isso demonstra que média e desempenho máximo não necessariamente coincidem.
+Ainda assim, esse alto nível de pontuaçao dela contra a República Dominicana e a Turquia, foi marcado de forma isolada nessas competições, ou seja, nos demais confrontos contra essas duas seleções ela não apresentou uma pontuação tão alta assim, fator esse que pode ser encontrado se pensarmos num possível tempo de quadra, onde ela tenha jogado poucos sets ou foi substituída, além da extensão do jogo, visto que partidas onde nos levam ao tie-break (3x2) traz uma maior oportunidade de pontuar. 
 
-Isso demonstra que média e desempenho máximo não necessariamente coincidem.
-
+Diante disso, sua pontuação contra a Itália ainda é um destaque, visto que ela manteve uma estabilidade de pontuação nos 03 confrontos contra essa seleção, mostrando que a Ana Cristina tem sede de Itália!
 ---
 
 # Estudo de Caso: Itália
 
 ## Pontuação por Competição
 
-[Inserir gráfico Itália por competição]
+![Ana Cristina VS Itália](images/italia_competicoes.png)
 
 Resultado observado:
 
@@ -135,7 +134,7 @@ O desempenho apresentou estabilidade ao longo das temporadas analisadas.
 
 # Distribuição dos Fundamentos
 
-[Inserir gráfico de pizza]
+![Distribuição dos pontos por fundamento](images/fundamentos.png)
 
 Resultado observado:
 
