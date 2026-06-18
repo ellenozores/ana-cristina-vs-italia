@@ -110,7 +110,6 @@ Interpretação:
 
 Embora a Itália apresente a maior média, os maiores desempenhos individuais ocorreram contra outros adversários, isso demonstra que média e desempenho máximo não necessariamente coincidem.
 Ainda assim, esse alto nível de pontuaçao dela contra a República Dominicana e a Turquia, foi marcado de forma isolada nessas competições, ou seja, nos demais confrontos contra essas duas seleções ela não apresentou uma pontuação tão alta assim, fator esse que pode ser encontrado se pensarmos num possível tempo de quadra, onde ela tenha jogado poucos sets ou foi substituída, além da extensão do jogo, visto que partidas onde nos levam ao tie-break (3x2) traz uma maior oportunidade de pontuar. 
-
 Diante disso, sua pontuação contra a Itália ainda é um destaque, visto que ela manteve uma estabilidade de pontuação nos 03 confrontos contra essa seleção, mostrando que a Ana Cristina tem sede de Itália!
 ---
 
