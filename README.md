@@ -1,5 +1,4 @@
 # Efeito Itália? Uma análise do desempenho de Ana Cristina pela Seleção Brasileira Feminina de Vôlei
-
 ## Introdução
 
 Ana Cristina é uma das principais atletas da Seleção Brasileira Feminina de Vôlei. Observando alguns confrontos recentes, surgiu a seguinte questão:
@@ -189,3 +188,52 @@ Possíveis extensões deste projeto:
 * Comparação com outras ponteiras da seleção brasileira;
 * Construção de métricas de desempenho por set jogado;
 * Modelagem preditiva de desempenho futuro.
+
+# Como Executar
+
+## 1. Clonar o repositório
+
+```bash
+git clone https://github.com/ellenozores/ana-cristina-vs-italia.git
+```
+
+## 2. Acessar a pasta do projeto
+
+```bash
+cd ana-cristina-vs-italia
+```
+
+## 3. Instalar as dependências
+
+```bash
+pip install -r requirements.txt
+```
+
+## 4. Abrir o Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+## Estrutura do Projeto
+
+```text
+ana-cristina-vs-italia/
+
+├── data/
+│   └── dataset_final.csv
+│
+├── images/
+│   ├── media_adversario.png
+│   ├── boxplot.png
+│   ├── top5.png
+│   ├── fundamentos.png
+│   └── italia_competicoes.png
+│
+├── notebooks/
+│   └── Ana_cristiva_vs_italia.ipynb
+│
+├── requirements.txt
+│
+└── README.md
+```
